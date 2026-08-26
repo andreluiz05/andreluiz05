@@ -76,8 +76,9 @@ Meu foco atual está em **aplicações com IA**, **arquitetura cloud-native**, *
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=andreluiz05&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=374151&rank_icon=github" alt="Estatísticas do GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz05&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=374151&langs_count=8" alt="Linguagens mais usadas" />
+<img src="https://img.shields.io/github/followers/andreluiz05?style=for-the-badge&logo=github&label=Seguidores&color=0f766e" alt="Seguidores no GitHub" />
+<img src="https://img.shields.io/github/stars/andreluiz05?style=for-the-badge&logo=github&label=Estrelas%20recebidas&color=0f766e" alt="Estrelas recebidas no GitHub" />
+<img src="https://img.shields.io/github/commit-activity/y/andreluiz05?style=for-the-badge&logo=github&label=Atividade%20anual&color=0f766e" alt="Atividade anual no GitHub" />
 
 </div>
 
