@@ -1,89 +1,104 @@
 <div align="center">
 
-# André Luiz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=180&section=header&text=André%20Luiz&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20Cloud&descAlignY=62&descSize=18" alt="Banner do perfil de André Luiz" width="100%" />
 
-### Fullstack Engineer · AI/ML · Cloud · Developer Tools
+<p>
+  <strong>Construo produtos, APIs e ferramentas com foco em clareza, escala e impacto real.</strong><br>
+  TypeScript, Java, Python e Flutter na prática.
+</p>
 
-Construo produtos e plataformas que transformam problemas complexos em experiências simples, confiáveis e fáceis de evoluir.
-
-<a href="mailto:andreluizdesantanasilva123@gmail.com">Email</a> ·
-<a href="https://wa.me/5531998235716">WhatsApp</a>
+<a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Enviar email" /></a>
+<a href="https://wa.me/5581988155922"><img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Conversar pelo WhatsApp" /></a>
+<img src="https://img.shields.io/badge/Pernambuco%2C%20Brasil-111827?style=for-the-badge&logo=googlemaps&logoColor=F59E0B" alt="Pernambuco, Brasil" />
 
 </div>
 
-<br>
-
 ## Sobre mim
 
-Sou engenheiro fullstack com foco em TypeScript, Java, Python e Flutter. Gosto de trabalhar na interseção entre produto e engenharia: entender o problema, desenhar uma solução clara e entregar software que continue saudável depois do primeiro deploy.
+Sou engenheiro fullstack e trabalho na interseção entre produto e engenharia. Transformo problemas complexos em software simples de usar, observável e sustentável depois do primeiro deploy.
 
-Atualmente, meus principais interesses são aplicações com IA, arquitetura cloud-native, ferramentas para desenvolvedores e automação de fluxos de engenharia.
+Meu foco atual está em **aplicações com IA**, **arquitetura cloud-native**, **developer tools** e **automação de fluxos de engenharia**.
 
-## No que trabalho
+## Stack principal
 
-| Área | Tecnologias e práticas |
-| --- | --- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Radix UI, shadcn/ui |
-| **Backend** | Node.js, Fastify, Hono, Java, Spring Boot, Python, FastAPI |
-| **Mobile** | Flutter, Riverpod, GoRouter |
-| **Dados e IA** | PostgreSQL, MySQL, MongoDB, Firebase, pgvector, RAG, LLMs, agentes |
-| **Plataforma** | Docker, Kubernetes, Helm, Terraform, GitHub Actions, OpenTelemetry |
-| **Interfaces de serviço** | REST, GraphQL, tRPC, gRPC, WebSockets |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,java,spring,python,fastapi,flutter,dart&perline=10" alt="TypeScript, React, Next.js, Node.js, Java, Spring, Python, FastAPI, Flutter e Dart" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,kubernetes,terraform,githubactions,grafana,git&perline=10" alt="PostgreSQL, MySQL, MongoDB, Firebase, Docker, Kubernetes, Terraform, GitHub Actions, Grafana e Git" />
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-0f766e?style=flat-square" alt="LLMs e RAG" />
+  <img src="https://img.shields.io/badge/Agents%20%26%20MCP-0f766e?style=flat-square" alt="Agentes e MCP" />
+  <img src="https://img.shields.io/badge/REST%20%7C%20GraphQL%20%7C%20gRPC-0f766e?style=flat-square" alt="REST, GraphQL e gRPC" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-0f766e?style=flat-square" alt="OpenTelemetry" />
+</p>
+
+## O que eu construo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Produtos fullstack</h3>
+      Interfaces rápidas, APIs bem definidas e experiências que não escondem a complexidade do domínio.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Aplicações com IA</h3>
+      RAG, agentes, function calling, saída estruturada e integração com modelos locais ou em nuvem.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Plataformas cloud-native</h3>
+      Microsserviços, containers, Kubernetes, infraestrutura como código e observabilidade ponta a ponta.
+    </td>
+    <td width="50%" valign="top">
+      <h3>Developer tools</h3>
+      CLIs, automações e ferramentas que tornam o ciclo de desenvolvimento mais inteligente e produtivo.
+    </td>
+  </tr>
+</table>
 
 ## Projetos em destaque
 
-### Neural CLI
+| Projeto | O que é | Tecnologias |
+| --- | --- | --- |
+| **Neural CLI** | Assistente de terminal com contexto de arquivos, Git, indexação semântica e agentes. | TypeScript · Node.js · MCP · SQLite |
+| **Spring AI Starter** | Template para RAG, function calling, saída estruturada e observabilidade. | Java · Spring Boot · Spring AI · PostgreSQL |
+| **Flutter AI Toolkit** | Execução local de modelos de linguagem em aplicações Flutter, com suporte offline. | Flutter · Dart · llama.cpp · GGUF |
+| **FastAPI RAG Template** | Pipeline de RAG com busca híbrida, citações e rastreamento de execução. | FastAPI · LangGraph · pgvector · OpenTelemetry |
 
-Assistente de terminal para trabalhar com contexto de arquivos, Git e saída de comandos. A proposta é aproximar o raciocínio de IA do fluxo real de desenvolvimento, com indexação semântica, agentes e revisão de código.
+## GitHub em números
 
-**TypeScript · Node.js · MCP · SQLite · Ink**
+<div align="center">
 
-### Spring AI Starter
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andreluiz05&show_icons=true&hide_border=true&bg_color=00000000&title_color=0f766e&icon_color=0f766e&text_color=374151&rank_icon=github" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz05&layout=compact&hide_border=true&bg_color=00000000&title_color=0f766e&text_color=374151&langs_count=8" alt="Linguagens mais usadas" />
 
-Template para aplicações Spring Boot com recursos de IA prontos para produção, incluindo RAG, function calling, saída estruturada, observabilidade e armazenamento vetorial.
+</div>
 
-**Java 21 · Spring Boot · Spring AI · PostgreSQL · pgvector · GraalVM**
+## Como trabalho
 
-### Flutter AI Toolkit
-
-Toolkit para executar modelos de linguagem localmente em aplicações Flutter, com foco em privacidade, funcionamento offline e integração com dispositivos móveis.
-
-**Flutter · Dart · llama.cpp · GGUF · Riverpod**
-
-### FastAPI RAG Template
-
-Base para pipelines de RAG com busca híbrida, respostas citadas e rastreamento ponta a ponta. Pensado para servir como ponto de partida para aplicações de conhecimento confiáveis.
-
-**FastAPI · Pydantic · LangGraph · pgvector · OpenTelemetry · Grafana**
-
-## Como penso engenharia
-
-- **Clareza antes da complexidade:** uma solução compreensível costuma ser mais valiosa que uma solução impressionante.
-- **Produto e código no mesmo contexto:** decisões técnicas devem melhorar a experiência de quem usa o produto.
-- **Observabilidade desde o início:** sistemas precisam explicar o que estão fazendo quando algo sai do esperado.
-- **IA com responsabilidade:** respostas úteis exigem contexto, avaliação, limites e uma boa experiência de recuperação de falhas.
-
-## Posso ajudar com
-
-- Desenvolvimento de produtos fullstack e MVPs técnicos
-- Arquitetura de aplicações e seleção de stack
-- Integração de IA, RAG e agentes
-- APIs, microsserviços e plataformas cloud-native
-- Revisão de código com foco em segurança, desempenho e manutenção
-- Mentoria e colaboração em projetos open source
+- **Clareza antes da complexidade:** arquitetura compreensível vence abstração ornamental.
+- **Produto e código no mesmo contexto:** decisões técnicas precisam melhorar a experiência final.
+- **Observabilidade desde o início:** sistemas devem explicar o que fazem quando algo sai do esperado.
+- **IA com responsabilidade:** contexto, avaliação, limites e recuperação de falhas fazem parte do produto.
 
 ## Vamos conversar
 
 Estou disponível para projetos freelance, consultoria técnica, revisão de arquitetura e colaborações selecionadas.
 
-**Email:** [andreluizdesantanasilva123@gmail.com](mailto:andreluizdesantanasilva123@gmail.com)<br>
-**WhatsApp:** [+55 81 98815-5922](https://wa.me/5581988155922)<br>
-**Localização:** Pernambuco, Brasil · UTC-3
-
-<br>
-
 <div align="center">
 
-_Software bom é aquele que resolve o problema e continua fazendo sentido depois._
+<a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/andreluizdesantanasilva123%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de André Luiz" /></a>
+<a href="https://wa.me/5581988155922"><img src="https://img.shields.io/badge/+55%2081%2098815--5922-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp de André Luiz" /></a>
+
+<br><br>
+
+<sub>Software bom resolve o problema e continua fazendo sentido depois do primeiro deploy.</sub>
 
 </div>
