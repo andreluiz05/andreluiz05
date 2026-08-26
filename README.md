@@ -1,22 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=andreluiz05%40github%3A~%24+whoami;André+Luiz%2C+Fullstack+Engineer;Building+with+TypeScript%2C+Java%2C+Python%2C+Flutter;AI%2FML+%7C+Cloud+%7C+DevTools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=andreluiz05%40github%3A~%24+whoami;Andr%C3%A9+Luiz%2C+Fullstack+Engineer;Building+with+TypeScript%2C+Java%2C+Python%2C+Flutter;AI%2FML+%7C+Cloud+%7C+DevTools" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="./perfil.jpg" width="120" height="120" style="border-radius: 12px; border: 1px solid rgba(16, 185, 129, 0.2);" alt="André Luiz" />
+  <img src="./perfil.jpg" width="120" height="120" alt="André Luiz" />
 </p>
 
-<h1 align="center" style="font-family: 'Geist', 'Satoshi', sans-serif; font-weight: 700; font-size: 2.5rem; background: linear-gradient(135deg, #F8FAFC 0%, #94A3B8 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
-  André Luiz
-</h1>
+<h1 align="center">André Luiz</h1>
 
-<p align="center" style="font-family: 'Geist Mono', monospace; color: #64748B; font-size: 1rem; margin-top: -8px;">
-  Fullstack Engineer · AI/ML Enthusiast · DevTools Builder
-</p>
+<p align="center"><code>Fullstack Engineer · AI/ML Enthusiast · DevTools Builder</code></p>
 
 <p align="center">
-  <a href="mailto:andreluizdesantanasilva123@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/5531998235716" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/5531998235716"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 ---
@@ -36,7 +32,7 @@ focus:
   - "DevTools: Antigravity, opencode, Claude Code"
 location: "São Paulo, BR"
 timezone: "America/Sao_Paulo (UTC-3)"
-status: "🟢 Accepting freelance/consulting"
+status: "Accepting freelance/consulting"
 uptime: "6+ years in production"
 ```
 
@@ -45,44 +41,48 @@ uptime: "6+ years in production"
 ## 🛠 `stack.list --verbose`
 
 ### **Frontend & Mobile**
-```bash
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  React / Next.js 14+ (App Router, RSC, Server Actions)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  TypeScript (Strict Mode, Type-Level Programming)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  Flutter (Riverpod, GoRouter, Custom Painters)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱  Tailwind CSS v4 / CSS Modules / Styled Components
-▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱  Framer Motion / GSAP (Scroll-triggered, Micro-interactions)
-▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱  Radix UI / shadcn/ui / Headless UI (Accessible Primitives)
+
+```
+████████████████████  React / Next.js 14+ (App Router, RSC, Server Actions)
+███████████████████░  TypeScript (Strict Mode, Type-Level Programming)
+██████████████████░░  Flutter (Riverpod, GoRouter, Custom Painters)
+████████████████░░░░  Tailwind CSS v4 / CSS Modules / Styled Components
+█████████████░░░░░░░  Framer Motion / GSAP (Scroll-triggered, Micro-interactions)
+██████████░░░░░░░░░░  Radix UI / shadcn/ui / Headless UI (Accessible Primitives)
 ```
 
 ### **Backend & APIs**
-```bash
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰  Node.js / Fastify / Hono (Edge-Ready, Type-Safe)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱  Java 21 / Spring Boot 3 (Virtual Threads, GraalVM Native)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱  Python 3.12+ / FastAPI (Pydantic v2, Async, OpenAPI)
-▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱  tRPC / GraphQL (Codegen, Subscriptions, Federation)
-▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱  REST / gRPC / WebSockets (Real-time, Bidirectional)
+
+```
+████████████████████  Node.js / Fastify / Hono (Edge-Ready, Type-Safe)
+███████████████████░  Java 21 / Spring Boot 3 (Virtual Threads, GraalVM Native)
+██████████████████░░  Python 3.12+ / FastAPI (Pydantic v2, Async, OpenAPI)
+██████████████░░░░░░  tRPC / GraphQL (Codegen, Subscriptions, Federation)
+██████████░░░░░░░░░░  REST / gRPC / WebSockets (Real-time, Bidirectional)
 ```
 
 ### **Data & AI/ML**
-```bash
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱  PostgreSQL / MySQL (Prisma, Drizzle, TypeORM, JPA/Hibernate)
-▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱  MongoDB (Aggregation, Change Streams, Atlas)
-▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱  Firebase (Auth, Firestore, Functions, Hosting, Extensions)
-▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱  Oracle Cloud (ATP, OKE, Functions, Analytics)
-▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱  Vector DBs (pgvector, Pinecone, Weaviate) + RAG Pipelines
-▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱  LLM Integration (OpenAI, Anthropic, Local via Ollama/vLLM)
-▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱  LangChain / LangGraph / PydanticAI (Agent Orchestration)
+
+```
+███████████████████░  PostgreSQL / MySQL (Prisma, Drizzle, TypeORM, JPA/Hibernate)
+████████████████░░░░  MongoDB (Aggregation, Change Streams, Atlas)
+██████████████░░░░░░  Firebase (Auth, Firestore, Functions, Hosting, Extensions)
+█████████████░░░░░░░  Oracle Cloud (ATP, OKE, Functions, Analytics)
+███████████░░░░░░░░░  Vector DBs (pgvector, Pinecone, Weaviate) + RAG Pipelines
+██████████░░░░░░░░░░  LLM Integration (OpenAI, Anthropic, Local via Ollama/vLLM)
+████████░░░░░░░░░░░░  LangChain / LangGraph / PydanticAI (Agent Orchestration)
 ```
 
 ### **DevOps & Tooling**
-```bash
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱  Docker / Docker Compose / BuildKit (Multi-arch, Cache Mounts)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱  Kubernetes (Helm, Kustomize, ArgoCD, Operators)
-▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱  CI/CD: GitHub Actions / GitLab CI (Matrix, Reusable Workflows)
-▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱  Terraform / OpenTofu (Modules, State, Policy as Code)
-▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱  Observability: OpenTelemetry, Grafana, Loki, Tempo, Prometheus
-▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱  Antigravity / opencode / Claude Code (AI-Native Dev Loop)
-▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱  Turborepo / Nx (Monorepo, Remote Caching, Affected Graph)
+
+```
+███████████████████░  Docker / Docker Compose / BuildKit (Multi-arch, Cache Mounts)
+██████████████████░░  Kubernetes (Helm, Kustomize, ArgoCD, Operators)
+████████████████░░░░  CI/CD: GitHub Actions / GitLab CI (Matrix, Reusable Workflows)
+█████████████░░░░░░░  Terraform / OpenTofu (Modules, State, Policy as Code)
+████████████░░░░░░░░  Observability: OpenTelemetry, Grafana, Loki, Tempo, Prometheus
+██████████░░░░░░░░░░  Antigravity / opencode / Claude Code (AI-Native Dev Loop)
+████████░░░░░░░░░░░░  Turborepo / Nx (Monorepo, Remote Caching, Affected Graph)
 ```
 
 ---
@@ -113,6 +113,7 @@ $ gh api user --jq '.contributionsCollection.contributionCalendar.totalContribut
 ## 🚀 `projects.featured --limit=6`
 
 ### **1. `neural-cli`** — *AI-Native Terminal Assistant*
+
 ```bash
 $ neural --help
 Usage: neural <command> [options]
@@ -128,12 +129,14 @@ Options:
   --tools     bash, edit, grep, glob, task, webfetch, mcp
   --stream    Stream tokens in real-time
 ```
-**Stack:** TypeScript, Node.js, Ink (React for CLI), MCP, SQLite (vec0)
+
+**Stack:** TypeScript, Node.js, Ink (React for CLI), MCP, SQLite (vec0)  
 **Status:** 🟢 Active • ⭐ 234 • 🍴 18
 
 ---
 
 ### **2. `spring-ai-starter`** — *Production-Ready Spring AI Template*
+
 ```java
 @SpringBootApplication
 @EnableAiAgents
@@ -146,12 +149,14 @@ public class Application {
 // Auto-configured: VectorStore, ChatModel, EmbeddingModel, ToolCallbackProvider
 // Features: RAG, Function Calling, Structured Output, Observability (Micrometer)
 ```
-**Stack:** Java 21, Spring Boot 3.3, Spring AI 1.0, PostgreSQL + pgvector, GraalVM
+
+**Stack:** Java 21, Spring Boot 3.3, Spring AI 1.0, PostgreSQL + pgvector, GraalVM  
 **Status:** 🟢 Active • ⭐ 567 • 🍴 43
 
 ---
 
 ### **3. `flutter-ai-toolkit`** — *On-Device AI for Flutter*
+
 ```dart
 // Run LLMs locally on mobile (no cloud)
 final model = await LlmModel.fromAsset('assets/models/gemma-2b-it-q4.gguf');
@@ -160,12 +165,14 @@ final stream = session.stream('Explain quantum entanglement');
 await for (final chunk in stream) { print(chunk); }
 // Works offline • 2.3GB model • 15 tok/s on Snapdragon 8 Gen 3
 ```
-**Stack:** Flutter, llama.cpp (FFI), GGUF, Riverpod, Isolate Compute
+
+**Stack:** Flutter, llama.cpp (FFI), GGUF, Riverpod, Isolate Compute  
 **Status:** 🟡 Beta • ⭐ 189 • 🍴 12
 
 ---
 
 ### **4. `fastapi-rag-template`** — *RAG Pipeline with Observability*
+
 ```python
 # app/rag/pipeline.py
 class RagPipeline:
@@ -179,12 +186,14 @@ class RagPipeline:
             docs = await self.retriever.search(query, k=8)
             return await self.generator.generate(query, docs, ctx)
 ```
-**Stack:** FastAPI, Pydantic v2, LangGraph, pgvector, OpenTelemetry, Grafana
+
+**Stack:** FastAPI, Pydantic v2, LangGraph, pgvector, OpenTelemetry, Grafana  
 **Status:** 🟢 Production • ⭐ 412 • 🍴 31
 
 ---
 
 ### **5. `oracle-cloud-operator`** — *Kubernetes Operator for OCI*
+
 ```yaml
 # CRD: OracleCloudDatabase
 apiVersion: oci.oracle.com/v1alpha1
@@ -200,12 +209,14 @@ spec:
     name: db-credentials
     key: password
 ```
-**Stack:** Go, Operator SDK (Kubebuilder), OCI Go SDK, Helm, Prometheus Operator
+
+**Stack:** Go, Operator SDK (Kubebuilder), OCI Go SDK, Helm, Prometheus Operator  
 **Status:** 🟢 Active • ⭐ 87 • 🍴 9
 
 ---
 
 ### **6. `antigravity-workflows`** — *AI-Native Dev Automation*
+
 ```yaml
 # .antigravity/workflows/pr-review.yml
 name: "AI Code Review"
@@ -224,7 +235,8 @@ jobs:
           tools: [read, grep, glob, bash]
       - uses: antigravity/actions/annotate@v1
 ```
-**Stack:** TypeScript, GitHub Actions, Antigravity SDK, Claude Code SDK
+
+**Stack:** TypeScript, GitHub Actions, Antigravity SDK, Claude Code SDK  
 **Status:** 🟢 Active • 🔧 Internal Tool (adopted by 3 teams)
 
 ---
@@ -342,6 +354,4 @@ Connection to github.com closed.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10B981,06B6D4,8B5CF6&height=120&section=footer&animation=twinkling&fontAlignY=35&desc=Built%20with%20%E2%9D%A4%20using%20Neovim%2C%20Claude%20Code%2C%20opencode%2C%20Antigravity&descAlignY=55&descSize=14" alt="Footer" />
 </p>
 
-<p align="center" style="font-family: 'Geist Mono', monospace; color: #94A3B8; font-size: 0.8rem;">
-  <code>Last updated: $(date -u +"%Y-%m-%d %H:%M UTC")</code> • <code>Profile README v3.2.1</code> • <code>Generated via <a href="https://github.com/andreluiz05/profile-generator" style="color: #10B981;">profile-generator</a></code>
-</p>
+<p align="center"><code>Last updated: 2025-01-15 09:42 UTC</code> • <code>Profile README v3.2.1</code> • <code>Generated via <a href="https://github.com/andreluiz05/profile-generator">profile-generator</a></code></p>
