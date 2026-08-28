@@ -62,7 +62,7 @@ Meu foco atual: **sistemas web**, **plataformas SaaS**, **automação inteligent
 
 <br>
 
-### ✦ Tecalli Automações
+### ✦ Tecalli Automação WhatsApp
 
 **Plataforma SaaS de Automação Inteligente para WhatsApp**
 
