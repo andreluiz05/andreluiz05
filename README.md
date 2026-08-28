@@ -1,105 +1,202 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:0f766e&height=180&section=header&text=André%20Luiz&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20Cloud&descAlignY=62&descSize=18" alt="Banner do perfil de André Luiz" width="100%" />
+<br>
 
-<p>
-  <strong>Construo produtos, APIs e ferramentas com foco em clareza, escala e impacto real.</strong><br>
-  TypeScript, Java, Python e Flutter na prática.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=1&text=%20" width="100%" />
 
-<a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Enviar email" /></a>
-<a href="https://wa.me/5581988155922"><img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Conversar pelo WhatsApp" /></a>
-<img src="https://img.shields.io/badge/Pernambuco%2C%20Brasil-111827?style=for-the-badge&logo=googlemaps&logoColor=F59E0B" alt="Pernambuco, Brasil" />
+# André Luiz
 
-</div>
+**Engenheiro de Software**
 
-## Sobre mim
+<br>
 
-Sou engenheiro fullstack e trabalho na interseção entre produto e engenharia. Transformo problemas complexos em software simples de usar, observável e sustentável depois do primeiro deploy.
+`Pernambuco, Brasil`
 
-Meu foco atual está em **aplicações com IA**, **arquitetura cloud-native**, **developer tools** e **automação de fluxos de engenharia**.
+<br>
 
-## Stack principal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,java,spring,python,fastapi,flutter,dart&perline=10" alt="TypeScript, React, Next.js, Node.js, Java, Spring, Python, FastAPI, Flutter e Dart" />
+<a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="22" /></a>&nbsp;&nbsp;
+<a href="https://wa.me/5581988155922"><img src="https://img.shields.io/badge/WhatsApp-1a1a1a?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="22" /></a>&nbsp;&nbsp;
+<a href="https://github.com/andreluiz05"><img src="https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="22" /></a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,docker,kubernetes,terraform,githubactions,grafana,git&perline=10" alt="PostgreSQL, MySQL, MongoDB, Firebase, Docker, Kubernetes, Terraform, GitHub Actions, Grafana e Git" />
+<img width="600" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1" />
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-0f766e?style=flat-square" alt="LLMs e RAG" />
-  <img src="https://img.shields.io/badge/Agents%20%26%20MCP-0f766e?style=flat-square" alt="Agentes e MCP" />
-  <img src="https://img.shields.io/badge/REST%20%7C%20GraphQL%20%7C%20gRPC-0f766e?style=flat-square" alt="REST, GraphQL e gRPC" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-0f766e?style=flat-square" alt="OpenTelemetry" />
-</p>
+<br>
 
-## O que eu construo
+## Sobre
+
+Construo software que resolve problemas reais. Do backend ao frontend, da arquitetura à experiência do usuário — cada decisão técnica serve a um propósito claro.
+
+Meu foco atual: **plataformas SaaS**, **automação inteligente com IA**, **aplicações web e mobile** e **sistemas que escalam**.
+
+<br>
+
+## Tecnologias
+
+<div align="center">
+
+<br>
+
+**Linguagens & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,spring,flutter,dart&perline=9" />
+
+<br><br>
+
+**Infraestrutura & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,docker,nginx,cloudflare,git,vite,figma&perline=9" />
+
+<br><br>
+
+</div>
+
+<br>
+
+## Projeto Principal
+
+<div align="center">
+
+<br>
+
+### ✦ Tecalli Automações
+
+**Plataforma SaaS de Automação Inteligente para WhatsApp**
+
+[tecalli.tec.br](https://tecalli.tec.br)
+
+<br>
+
+</div>
+
+Motor completo de disparo, agendamento e humanização de mensagens em escala — construído do zero. Sistema em produção com usuários reais pagantes.
+
+<br>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Produtos fullstack</h3>
-      Interfaces rápidas, APIs bem definidas e experiências que não escondem a complexidade do domínio.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Aplicações com IA</h3>
-      RAG, agentes, function calling, saída estruturada e integração com modelos locais ou em nuvem.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Plataformas cloud-native</h3>
-      Microsserviços, containers, Kubernetes, infraestrutura como código e observabilidade ponta a ponta.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Developer tools</h3>
-      CLIs, automações e ferramentas que tornam o ciclo de desenvolvimento mais inteligente e produtivo.
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**Arquitetura**
+
+- Backend Node.js + Express 5 com filas assíncronas BullMQ/Redis
+- Frontend React 19 (SPA) com comunicação bidirecional Socket.IO
+- Conexão direta ao protocolo WhatsApp via Baileys
+- MongoDB Atlas com Change Streams para reatividade em tempo real
+
+</td>
+<td width="50%" valign="top">
+
+**Inteligência Artificial**
+
+- Roleta com 5 LLMs em cascata (Cloudflare Workers AI + OpenRouter)
+- 4 personas configuráveis (Vendas, Avisos, Suporte, Casual)
+- Sistema anti-CoT com sanitização regex avançada
+- Fallback salvador: o envio nunca é interrompido
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Motor de Disparos**
+
+- Disparos imediatos com 25 Workers simultâneos
+- Lançamentos por data/hora exata (BullMQ Delayed Jobs)
+- Rotinas semanais recorrentes (node-cron)
+- Cache anti-estampida de mídias, delays anti-ban, retomada inteligente
+
+</td>
+<td width="50%" valign="top">
+
+**Infraestrutura & Segurança**
+
+- Deploy em Oracle Cloud (VPS) com NGINX + PM2
+- JWT, Bcrypt, Helmet, Rate Limiting, CAPTCHA Turnstile
+- LGPD: logs com TTL automático de 180 dias
+- Detecção automática de pagamento PIX via scraping IMAP
+
+</td>
+</tr>
 </table>
 
-## Projetos em destaque
-
-| Projeto | O que é | Tecnologias |
-| --- | --- | --- |
-| **Neural CLI** | Assistente de terminal com contexto de arquivos, Git, indexação semântica e agentes. | TypeScript · Node.js · MCP · SQLite |
-| **Spring AI Starter** | Template para RAG, function calling, saída estruturada e observabilidade. | Java · Spring Boot · Spring AI · PostgreSQL |
-| **Flutter AI Toolkit** | Execução local de modelos de linguagem em aplicações Flutter, com suporte offline. | Flutter · Dart · llama.cpp · GGUF |
-| **FastAPI RAG Template** | Pipeline de RAG com busca híbrida, citações e rastreamento de execução. | FastAPI · LangGraph · pgvector · OpenTelemetry |
-
-## GitHub em números
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/andreluiz05?style=for-the-badge&logo=github&label=Seguidores&color=0f766e" alt="Seguidores no GitHub" />
-<img src="https://img.shields.io/github/stars/andreluiz05?style=for-the-badge&logo=github&label=Estrelas%20recebidas&color=0f766e" alt="Estrelas recebidas no GitHub" />
-<img src="https://img.shields.io/github/commit-activity/y/andreluiz05?style=for-the-badge&logo=github&label=Atividade%20anual&color=0f766e" alt="Atividade anual no GitHub" />
+**Stack completa:**&nbsp;&nbsp; React 19 · Node.js · Express 5 · MongoDB · Redis · BullMQ · Socket.IO · Baileys · Cloudinary · Zod · Pino · Cloudflare Workers AI · OpenRouter
 
 </div>
 
-## Como trabalho
+<br>
 
-- **Clareza antes da complexidade:** arquitetura compreensível vence abstração ornamental.
-- **Produto e código no mesmo contexto:** decisões técnicas precisam melhorar a experiência final.
-- **Observabilidade desde o início:** sistemas devem explicar o que fazem quando algo sai do esperado.
-- **IA com responsabilidade:** contexto, avaliação, limites e recuperação de falhas fazem parte do produto.
+---
 
-## Vamos conversar
+<br>
 
-Estou disponível para projetos freelance, consultoria técnica, revisão de arquitetura e colaborações selecionadas.
+## Outros Projetos
+
+<br>
 
 <div align="center">
 
-<a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/andreluizdesantanasilva123%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de André Luiz" /></a>
-<a href="https://wa.me/5581988155922"><img src="https://img.shields.io/badge/+55%2081%2098815--5922-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp de André Luiz" /></a>
+| | Projeto | Descrição | Stack |
+|:--|:--------|:----------|:------|
+| 🌐 | [**Alice Storymaker**](https://github.com/andreluiz05/alice-storymaker) | Gerador de histórias com IA — deploy na Vercel | HTML · CSS · JS |
+| 🏋️ | [**Semear Fitness**](https://github.com/andreluiz05/semearfitness) | Site institucional para academia | HTML · CSS |
+| 📄 | [**Tarcísio Lima**](https://github.com/andreluiz05/tarcisio_lima) | Site profissional completo | HTML · CSS |
+| ☕ | [**Trabalho Paulista**](https://github.com/andreluiz05/trabalho_Paulista) | Sistema acadêmico em Java | Java |
+| 🎉 | [**Satisfaction Eventos**](https://github.com/andreluiz05/satisfaction_eventos) | App mobile de gestão de eventos | Flutter · Dart |
+| 🛡️ | [**Antonio Seguros**](https://github.com/andreluiz05/antonio_seguros) | Landing page para corretora de seguros | HTML · CSS |
+| 🔧 | [**Ferramentas JS**](https://github.com/andreluiz05/Ferramentas-JS) | Coleção de utilitários JavaScript | JavaScript |
+| 📱 | [**App de Botões**](https://github.com/andreluiz05/app_de_botoes) | App mobile de componentes interativos | Flutter · Dart |
+| 🏨 | [**Sistema Busca Hotel**](https://github.com/andreluiz05/sistema_busca_hotel) | Sistema de busca e reserva de hotéis | Python |
+| 🛒 | [**Loja de Suplementos**](https://github.com/andreluiz05/loja-de-suplementos-online) | E-commerce de suplementos | HTML · CSS · JS |
+| 📝 | [**Currículo Pessoal**](https://github.com/andreluiz05/Meu-Curriculo-Pessoal) | Portfólio web interativo | HTML · CSS |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## Como penso
+
+<br>
+
+> *Simplicidade é a sofisticação suprema.*
+
+<br>
+
+- **Resolver primeiro, abstrair depois.** Código que funciona e se mantém vence engenharia excessiva.
+- **Produto e engenharia são a mesma conversa.** Decisão técnica que não melhora a experiência não é decisão — é ruído.
+- **IA com controle.** Fallback, sanitização, personas e limites claros fazem parte do produto desde o primeiro commit.
+- **Escala não é número de linhas.** É arquitetura pensada para crescer sem quebrar.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+<a href="mailto:andreluizdesantanasilva123@gmail.com"><img src="https://img.shields.io/badge/andreluizdesantanasilva123@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="24" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/5581988155922"><img src="https://img.shields.io/badge/+55%2081%2098815--5922-1a1a1a?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="24" /></a>
 
 <br><br>
 
-<sub>Software bom resolve o problema e continua fazendo sentido depois do primeiro deploy.</sub>
+Disponível para projetos, consultoria e colaborações.
+
+<br>
+
+<sub>Software bom é aquele que você esquece que está usando.</sub>
+
+<br><br>
 
 </div>
