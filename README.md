@@ -6,7 +6,7 @@
 
 # André Luiz
 
-**Engenheiro de Software**
+**Desenvolvedor Fullstack · Web & Mobile**
 
 <br>
 
