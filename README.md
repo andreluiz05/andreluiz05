@@ -30,7 +30,7 @@
 
 Construo software que resolve problemas reais. Do backend ao frontend, da arquitetura à experiência do usuário — cada decisão técnica serve a um propósito claro.
 
-Meu foco atual: **plataformas SaaS**, **automação inteligente com IA**, **aplicações web e mobile** e **sistemas que escalam**.
+Meu foco atual: **sistemas web**, **plataformas SaaS**, **automação inteligente com IA**, **aplicações web e mobile** e **sistemas que escalam**.
 
 <br>
 
